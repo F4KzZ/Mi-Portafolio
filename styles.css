@@ -1,0 +1,50 @@
+/* Selectores por id */
+#titulo-principal {
+    text-align: center;
+    background-color: #2e86de;
+    color: white;
+    padding: 20px;
+}
+
+#subtitulo {
+    color: #27ae60;
+    font-size: 1.8rem;
+}
+
+/* Selectores por clase */
+.sobre-mi {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.experiencia {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.pie {
+    text-align: center;
+    font-size: 0.9rem;
+    background-color: #222;
+    color: white;
+    padding: 10px;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fafafa;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
